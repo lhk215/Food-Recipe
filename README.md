@@ -1,5 +1,7 @@
-# Budae-jjigae-and-Biryani
-# Author : Samuel Kong
-# Date : 23-7-2019
+# Start of Something Amazing 
+Author : Samuel Kong
+Date : 23-7-2019
 
-Shopping list for 23-7-2019
+List of Cuisine
+- Budae Jjijae
+- Biryani
