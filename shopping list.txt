@@ -1,7 +1,9 @@
 Author : Samuel Kong
 Date : 23-7-2019
 
-Ingredient
+======================================================================
+# Ingredients (Army Stew) |Date: 07.23.2019|
+======================================================================
 - gochujang
 - glass noodles 
 - tofu
@@ -9,16 +11,20 @@ Ingredient
 - spam (Raymond)
 - wurst (Raymond)
 - cheese (Raymond)
-- garlic
 - brotchen
 - cucumber
-- chicken 
 - beef
-- ginger
-- briani
-- onion
-- tomatoes
-- yoghurt
 - milk 
 - eggs
 - vege
+
+======================================================================
+# Ingredietns (Briyani) |Date: 07.23.2019|
+======================================================================
+- garlic
+- chicken
+- ginger
+- briyani spice
+- onion
+- tomatoes
+- yoghurt
