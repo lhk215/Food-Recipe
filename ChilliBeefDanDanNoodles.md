@@ -13,11 +13,12 @@ Recipe for 3 portions
 10. 20g of ginger
 11. 1 stick of red chilli
 12. 2 tsp of chilli flakes
-13. 1 tsp of Sichuan peppercorns (crushed)
-14. Cooking oil
-15. 2 Tbsp of rice wine vinegar
-16. Creamy peanut butter
-17. 3-4 spring onions
+13. 2 Tbsp of sesame seeds
+14. 1 tsp of Sichuan peppercorns (crushed)
+15. Cooking oil
+16. 2 Tbsp of rice wine vinegar
+17. Creamy peanut butter
+18. 3-4 spring onions
 
 ## Steps
 1. First make the sweet chilli sauce by mixing the sriracha, sweet chilli sauce, honey, 2 Tbsp of soy sauce, and rice wine vinegar
