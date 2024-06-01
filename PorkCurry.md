@@ -15,9 +15,10 @@ Recipe for 6
 2. Cut the carrots and potatoes into bite-sized pieces
 3. Cut up the pork cutlets in bite-sized pieces
 4. Fry the onions until caramelized
-5. Throw in the pork and cook
+5. Throw in the pork, add some salt and cook
 6. Throw in the potatoes and carrots and cook for about 10 minutes
-7. Fry the red curry paste for about 3 minutes
-8. Throw in the coconut milk and water
-9. Bring to boil
-10. Medium heat and cook for about an hour
+7. Add the MSG and cook for about another 2-3 minutes
+8. Add the red curry paste and cook for about 3 minutes
+9. Throw in the coconut milk and water
+10. Bring to boil
+11. Medium heat and cook for about an hour
